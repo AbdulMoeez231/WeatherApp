@@ -1,0 +1,21 @@
+const weatherIcons: any = {
+  "01d": require("../../assets/01d.png").default,
+  "01n": require("../../assets/01n.png").default,
+  "02d": require("../../assets/02d.png").default,
+  "02n": require("../../assets/02n.png").default,
+  "03d": require("../../assets/03d.png").default,
+  "03n": require("../../assets/03n.png").default,
+  "04d": require("../../assets/04d.png").default,
+  "04n": require("../../assets/04n.png").default,
+  "09d": require("../../assets/09d.png").default,
+  "09n": require("../../assets/09n.png").default,
+  "10d": require("../../assets/10d.png").default,
+  "10n": require("../../assets/10n.png").default,
+  "11d": require("../../assets/11d.png").default,
+  "11n": require("../../assets/11n.png").default,
+  "13d": require("../../assets/13d.png").default,
+  "13n": require("../../assets/13n.png").default,
+  "50d": require("../../assets/50d.png").default,
+  "50n": require("../../assets/50n.png").default,
+};
+export default weatherIcons;
