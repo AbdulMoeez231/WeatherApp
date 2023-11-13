@@ -14,5 +14,8 @@ For Setup:
 4. After the node modules are installed in the WeatherApp
 5. Simply run this command: npm run dev 
 in the WeatherApp folder
-6. The app will open in you default browser
-7. App might take some time to fetch the weather data by API so you can also reload the page
+6. After running the command you will get a local host link in your termial
+7. You can Ctrl + Click on that link
+8. The app will open in you default browser
+9. Or you can copy the link and put it into your browser
+10. App might take some time to fetch the weather data by API so you can also reload the page
